@@ -34,10 +34,9 @@ I'm a passionate frontend developer on a journey of continuous learning and grow
 - YouTube development channels
 
 📫 Connect with Me
-- 💼 LinkedIn: [Riziki Brenda](https://www.linkedin.com/in/
-                riziki-brenda-61144a311)
+- 💼 LinkedIn: [Riziki Brenda](www.linkedin.com/in/riziki-brenda-bb6b21362)
 
-  - 📧 Email: brendariziki796@gmail.com
+  - 📧 Email: brendariziki796@gmail.com or rizikibrenda4@gmail.com
 - 🌐 Personal Website/Portfolio: "https://github.com/brenda-20/My-Portfolio/blob/main/portfolio.html"
 
 ### 📊 GitHub Stats
