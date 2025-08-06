@@ -38,7 +38,7 @@ I'm a passionate frontend developer on a journey of continuous learning and grow
                 riziki-brenda-61144a311)
 
   - 📧 Email: brendariziki796@gmail.com
-- 🌐 Personal Website/Portfolio: [Your Portfolio](https://your-portfolio-website.com)
+- 🌐 Personal Website/Portfolio: "https://github.com/brenda-20/My-Portfolio/blob/main/portfolio.html"
 
 ### 📊 GitHub Stats
 *To get these stats, visit:*
